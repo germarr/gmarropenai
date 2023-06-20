@@ -17,5 +17,5 @@ module.exports = {
   appDirectory: "app",
   assetsBuildDirectory: "public/build",
   publicPath: "/build/",
-  serverBuildPath: "azure/function/build",
+  serverBuildPath: "azure/function/build/index.js",
 };
