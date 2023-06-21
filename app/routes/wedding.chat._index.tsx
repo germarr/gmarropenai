@@ -119,7 +119,7 @@ export default function Ai() {
           <div className="md:col-span-3 bg-gray-800 rounded-md">
             <div className="flex flex-col-reverse">
               <div className="flex items-center">
-                <Form className="w-full px-3 pb-3" method="post">
+                <Form className="w-full px-3 pb-3" method="POST">
                   <Send />
                   <input
                     id="4567"
